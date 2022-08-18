@@ -140,7 +140,11 @@ Hi, I'm William Benett, a self-taught BackEnd(Java and Python) and frontEnd(Reac
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <p>  
-  
+<h4>  I'm also a great enjoyer of ...</h4>
+<p>
+ <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 <hr>  
 
 Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
