@@ -14,6 +14,9 @@
   <a href="mailto:williambenet@hotmail.com?subject=Olá%20Benett">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.codewars.com/users/talls2">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 Hi, I'm William Benett, a self-taught BackEnd(Java and Python) and frontEnd(React) web developer from Brazil.
