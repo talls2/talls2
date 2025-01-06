@@ -4,7 +4,7 @@
 <br />
 
 <p align='center'>
-  I live on Goiás, Brazil
+  I live in Goiás, Brazil
 </p>
 
 <p align='center'>
