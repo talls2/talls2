@@ -12,4 +12,4 @@ Software engineer moving into **automotive cybersecurity**: in-vehicle networks 
 
 **Pinned work:** [volley](https://github.com/talls2/volley), a 3v3 online game in Rust/Bevy with a unit-tested simulation crate, and [CScan](https://github.com/talls2/CScan), a multithreaded TCP/UDP port scanner in C.
 
-[LinkedIn](https://www.linkedin.com/in/william-benett/) · Boston, MA · open to relocation
+[Website](https://talls2.github.io) · [LinkedIn](https://www.linkedin.com/in/william-benett/) · [Hack The Box](https://profile.hackthebox.com/profile/01a14d34-7a53-72b5-b46c-f780d67b56a5) · [TryHackMe](https://tryhackme.com/p/WilliamBenett) · Boston, MA · open to relocation
